@@ -5,9 +5,11 @@
 
 ¡Bienvenidos al AWS Community Day Ciudad de México! Prepárense para un día lleno de aprendizaje, networking y, por supuesto, ¡retos emocionantes!
 
-En Ajolotes en la Nube, hemos preparado una serie de desafíos para que demuestren sus habilidades en AWS y compitan por premios increíbles. Estos retos están diseñados para todos los niveles, desde principiantes hasta expertos, ¡así que no hay excusa para no participar!
+En Ajolotes en la Nube, hemos preparado una serie de desafíos para que demuestren sus habilidades en AWS y compitan por premios increíbles. Estos retos están diseñados para todos, ¡así que no hay excusa para no participar!
 
 **¡Lean atentamente las instrucciones y buena suerte!**
+
+¡Importante! Para participar en cualquiera de estos retos, es obligatorio que estés inscrito en nuestro grupo de [Meetup](https://www.meetup.com/ajolotesenlanube/) y suscrito a nuestro canal de [YouTube](https://www.youtube.com/@AWS.Ajolotes/). ¡Demuestra que eres un verdadero Ajolote de la Nube!
 
 ---
 
