@@ -19,12 +19,12 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 
 ---
 
-### Reto Chico 1: ¡Caza de Héroes Ajoloteros! 📸
+### Reto Chico 1: ¡Caza de Heros/Builders! 📸
 
 **Actividad:**
-1.  Encuentra a 3 AWS Heroes presentes en el evento.
+1.  Encuentra a 3  AWS Heros y a 2 AWS Community Builders presentes en el evento.
 2.  Tómate una foto con cada uno de ellos.
-3.  Sube las 3 fotos a tus redes sociales (Instagram, X/Twitter, LinkedIn) etiquetando a **@ajolotesenlanube** y a cada AWS Hero (¡busca sus nombres de usuario!).
+3.  Sube las 5 fotos a tus redes sociales (Instagram, X/Twitter, LinkedIn) etiquetando a **@ajolotesenlanube** y a cada Hero/Builder (¡busca sus nombres de usuario!).
 4.  Incluye algunos de los siguiente hashtag en cada publicación: `#AjoloteHero`, `#AWSCDMX`, `#ComunidadAWS`.
 
 **Validación:** Muestra las publicaciones realizadas en tus redes sociales a un organizador de Ajolotes en la Nube, asegurándote de que las etiquetas y hashtags sean correctos.
@@ -36,7 +36,7 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 **Actividad:**
 1.  Utiliza el filtro oficial creado especialmente para el [AWS Community Day CDMX](https://jade-figolla-6ba7f4.netlify.app/).
 2.  Crea una historia o reel en Instagram con el filtro, incluyendo una frase creativa y original sobre la nube, AWS o Ajolotes en la Nube. ¡Sé ingenioso!
-3.  Etiqueta a **@ajolotesenlanube** y al User Group seleccionada en en tu historia o reel.
+3.  Etiqueta a **@ajolotesenlanube** y al User Group seleccionada en tu historia o reel.
 
 **Validación:** Muestra la historia o reel subido y etiquetado a un organizador de Ajolotes en la Nube.
 
@@ -60,10 +60,10 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 
 **Actividad:**
 1.  Sigue todas las redes sociales de Ajolotes en la Nube:
-    * Instagram: \[https://www.instagram.com/aws.ajolotes/]
-    * YouTube: \[https://www.youtube.com/@AWS.Ajolotes/]
-    * Meetup: \[https://www.meetup.com/ajolotesenlanube/]
-    * LinkedIn: \[https://mx.linkedin.com/company/aws-ug-ajolotes-en-la-nube?trk=public_post_feed-actor-name]
+    * [Instagram](https://www.instagram.com/aws.ajolotes/)
+    * [YouTube](https://www.youtube.com/@AWS.Ajolotes/)
+    * [Meetup](https://www.meetup.com/ajolotesenlanube/)
+    * [LinkedIn](https://mx.linkedin.com/company/aws-ug-ajolotes-en-la-nube?trk=public_post_feed-actor-name)
 2.  Deja un comentario útil, divertido o que aporte valor en al menos 2 publicaciones diferentes de Ajolotes en la Nube. ¡Evita comentarios genéricos como "bueno" o "genial"!
     * Ejemplos: Responde una pregunta, comparte tu experiencia, añade información relevante, haz un chiste relacionado con la nube.
 
@@ -91,28 +91,20 @@ Estos retos requieren un poco más de tiempo y conocimiento, pero la recompensa 
 
 ### Reto 1: ¡Explorador de la Consola!
 
-**Actividad:**
-1.  **Crea una cuenta gratuita de AWS** (si no tienes una) o usa tu cuenta existente.
-2.  **Navega a la consola de S3 (Simple Storage Service).**
-3.  **Crea un bucket de S3** con un nombre único global (ej. `ajolotes-cdmx-tu-nombre`).
-4.  **Sube un pequeño archivo** (puede ser una imagen, un archivo de texto, etc.) a tu bucket.
-5.  **Genera un enlace público** para ese archivo (¡cuidado con la configuración de permisos!).
-6.  **Comparte el enlace del archivo subido** con un organizador de Ajolotes en la Nube.
+**Actividad: **
+1.Crea una historia corta (máximo 1 minuto en video o un post de Instagram/X) que use al menos 3 servicios AWS de forma creativa para resolver un problema cotidiano o muy divertido. ¡No necesitas código, solo tu imaginación!
+Ejemplo: "Mi perro perdió su pelota. Con AWS Rekognition la identifiqué, usé AWS IoT Core para rastrear su collar, y AWS Lambda me envió una notificación cuando la encontró cerca del jardín."
 
-**Servicios AWS involucrados:** S3, IAM (permisos básicos).
+**Validación:** Muestra tu historia (video/post) a un organizador de Ajolotes en la Nube. ¡La creatividad cuenta!
 
 ---
 
-### Reto 2: ¡El Ajolote Lambda Saludador!
+### Reto 2: ¡Selfie con el Ajolote Cloud! 🤳
 
 **Actividad:**
-1.  **Navega a la consola de AWS Lambda.**
-2.  **Crea una nueva función Lambda** utilizando el runtime de Python 3.9 o superior.
-3.  **Configura un Trigger de API Gateway** (REST API, Open) para tu función.
-4.  **Modifica el código de la función Lambda** para que, al ser invocada, retorne un mensaje JSON que diga: `{"message": "¡Hola desde mi Ajolote Lambda en la nube!"}`.
-5.  **Invoca tu API Gateway** desde un navegador o Postman y **muestra la respuesta** a un organizador.
+1.  Encuentra un elemento visual en el evento (un logo de AWS, un stand, una pantalla con una presentación) que represente un servicio de AWS que te guste o te parezca interesante. Tómate una selfie con ese elemento y, en la descripción de tu post (Instagram o X), explica por qué te gusta ese servicio en una frase.
 
-**Servicios AWS involucrados:** Lambda, API Gateway.
+**Validación:** Muestra la selfie publicada a un organizador.
 
 ---
 
@@ -126,5 +118,13 @@ Estos retos requieren un poco más de tiempo y conocimiento, pero la recompensa 
 
 ---
 
+### Reto 4: ¡El Hashtag Maestro! #️⃣
+
+**Actividad:**
+1.  Durante el evento, identifica una frase inspiradora, un dato sorprendente o una idea clave de una charla que te impactó. Crea un hashtag original y único que resuma ese concepto y publica la frase/dato/idea con tu hashtag en X/Twitter.
+
+**Validación:** Muestra la publicación a un organizador. Buscaremos la originalidad y relevancia del hashtag.
+
 **¡Agradecemos su participación y entusiasmo!**
+
 **#AWSCDMX #AjolotesEnLaNube #AWSCommunityDay**
