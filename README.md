@@ -89,10 +89,10 @@ Estos retos requieren un poco más de tiempo y conocimiento, pero la recompensa 
 
 ---
 
-### Reto 1: ¡Explorador de la Consola!
+### Reto 1:  ¡El Ajolote Storyteller! 📖
 
-**Actividad: **
-1.Crea una historia corta (máximo 1 minuto en video o un post de Instagram/X) que use al menos 3 servicios AWS de forma creativa para resolver un problema cotidiano o muy divertido. ¡No necesitas código, solo tu imaginación!
+**Actividad:**
+1.  Crea una historia corta (máximo 1 minuto en video o un post de Instagram/X) que use al menos 3 servicios AWS de forma creativa para resolver un problema cotidiano o muy divertido. ¡No necesitas código, solo tu imaginación!
 Ejemplo: "Mi perro perdió su pelota. Con AWS Rekognition la identifiqué, usé AWS IoT Core para rastrear su collar, y AWS Lambda me envió una notificación cuando la encontró cerca del jardín."
 
 **Validación:** Muestra tu historia (video/post) a un organizador de Ajolotes en la Nube. ¡La creatividad cuenta!
