@@ -1,3 +1,6 @@
+
+![AWS Community Day](Mexico_CommunityDay.png)
+
 # 🚀 AWS Community Day CDMX - ¡Retos Ajolotes en la Nube! 🚀
 
 ¡Bienvenidos al AWS Community Day Ciudad de México! Prepárense para un día lleno de aprendizaje, networking y, por supuesto, ¡retos emocionantes!
@@ -57,11 +60,10 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 
 **Actividad:**
 1.  Sigue todas las redes sociales de Ajolotes en la Nube:
-    * Instagram: \[Enlace a Instagram]
-    * X/Twitter: \[Enlace a Twitter]
-    * YouTube: \[Enlace a YouTube]
-    * Meetup: \[Enlace a Meetup]
-    * LinkedIn: \[Enlace a LinkedIn]
+    * Instagram: \[https://www.instagram.com/aws.ajolotes/]
+    * YouTube: \[https://www.youtube.com/@AWS.Ajolotes/]
+    * Meetup: \[https://www.meetup.com/ajolotesenlanube/]
+    * LinkedIn: \[https://mx.linkedin.com/company/aws-ug-ajolotes-en-la-nube?trk=public_post_feed-actor-name]
 2.  Deja un comentario útil, divertido o que aporte valor en al menos 2 publicaciones diferentes de Ajolotes en la Nube. ¡Evita comentarios genéricos como "bueno" o "genial"!
     * Ejemplos: Responde una pregunta, comparte tu experiencia, añade información relevante, haz un chiste relacionado con la nube.
 
