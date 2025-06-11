@@ -26,7 +26,7 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 **Actividad:**
 1.  Encuentra a 3  AWS Heros y a 2 AWS Community Builders presentes en el evento.
 2.  Tómate una foto con cada uno de ellos.
-3.  Sube las 5 fotos a tus redes sociales (Instagram, X/Twitter, LinkedIn) etiquetando a **@ajolotesenlanube** y a cada Hero/Builder (¡busca sus nombres de usuario!).
+3.  Sube las 5 fotos a tus redes sociales (Instagram, X/Twitter, LinkedIn) etiquetando a **@aws.ajolotes** y a cada Hero/Builder (¡busca sus nombres de usuario!).
 4.  Incluye algunos de los siguiente hashtag en cada publicación: `#AjoloteHero`, `#AWSCDMX`, `#ComunidadAWS`.
 
 **Validación:** Muestra las publicaciones realizadas en tus redes sociales a un organizador de Ajolotes en la Nube, asegurándote de que las etiquetas y hashtags sean correctos.
@@ -87,8 +87,6 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 
 Estos retos requieren un poco más de tiempo y conocimiento, pero la recompensa ¡valdrá la pena! Son ideales para aquellos que quieren profundizar y demostrar dominio de varios servicios.
 
-**¿Cómo participar?** Al finalizar tu reto, deberás presentar tu solución funcionando a un panel de jueces de Ajolotes en la Nube en un horario específico (se anunciará durante el evento). La evaluación se basará en la funcionalidad, la correcta implementación de AWS y la explicación de tu solución.
-
 ---
 
 ### Reto 1:  ¡El Ajolote Storyteller! 📖
@@ -123,7 +121,7 @@ Ejemplo: "Mi perro perdió su pelota. Con AWS Rekognition la identifiqué, usé 
 ### Reto 4: ¡El Hashtag Maestro! #️⃣
 
 **Actividad:**
-1.  Durante el evento, identifica una frase inspiradora, un dato sorprendente o una idea clave de una charla que te impactó. Crea un hashtag original y único que resuma ese concepto y publica la frase/dato/idea con tu hashtag en X/Twitter.
+1.  Durante el evento, identifica una frase inspiradora, un dato sorprendente o una idea clave de una charla que te impactó. Crea un hashtag original y único que resuma ese concepto y publica la frase/dato/idea con tu hashtag en Instagram y etiquetando a **@aws.ajolotes**.
 
 **Validación:** Muestra la publicación a un organizador. Buscaremos la originalidad y relevancia del hashtag.
 
