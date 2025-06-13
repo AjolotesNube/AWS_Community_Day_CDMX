@@ -1,15 +1,15 @@
 
-![AWS Community Day](Mexico_CommunityDay.png)
+<img src="Mexico_CommunityDay.png" width="1200" height="800"/>
 
-# 🚀 AWS Community Day CDMX - ¡Retos Ajolotes en la Nube! 🚀
+# 🚀 ¡Gira la Ruleta y Gana con los Ajolotes en la Nube! 🚀
 
 ¡Bienvenidos al AWS Community Day Ciudad de México! Prepárense para un día lleno de aprendizaje, networking y, por supuesto, ¡retos emocionantes!
 
-En Ajolotes en la Nube, hemos preparado una serie de desafíos para que demuestren sus habilidades en AWS y compitan por premios increíbles. Estos retos están diseñados para todos, ¡así que no hay excusa para no participar!
+En Ajolotes en la Nube, hemos preparado una serie de desafíos para que demuestren sus habilidades en AWS y compitan por premios increíbles. Estos retos están diseñados para todos, ¡así que no hay excusa para no participar! 
 
 **¡Lean atentamente las instrucciones y buena suerte!**
 
-¡Importante! Para participar en cualquiera de estos retos, es obligatorio que estés inscrito en nuestro grupo de [Meetup](https://www.meetup.com/ajolotesenlanube/) y suscrito a nuestro canal de [YouTube](https://www.youtube.com/@AWS.Ajolotes/). ¡Demuestra que eres un verdadero Ajolote de la Nube!
+¡Importante! Para poder tener la oportunidad de girar nuestra ruleta y llevarte un premio debes de participar en cualquiera de estos retos y es obligatorio que estés inscrito en nuestro grupo de [Meetup](https://www.meetup.com/ajolotesenlanube/) y suscrito a nuestro canal de [YouTube](https://www.youtube.com/@AWS.Ajolotes/). ¡Demuestra que eres un verdadero Ajolote de la Nube!
 
 ---
 
@@ -85,7 +85,7 @@ Estos retos son ideales para empezar, poner a prueba conocimientos básicos y ga
 
 ## 💎 Premio Grande: Desafíos para los Valientes
 
-Estos retos requieren un poco más de tiempo y conocimiento, pero la recompensa ¡valdrá la pena! Son ideales para aquellos que quieren profundizar y demostrar dominio de varios servicios.
+Para tener la oportunidad de girar la ruleta donde se encuentra el **AjoloTrofeo**, solo necesitas completar dos de los siguientes retos. ¡Elige los que más te gusten y demuéstranos tu ingenio y conocimiento en la nube! Sabemos que estos retos requieren un poco más de tiempo y conocimiento, pero la recompensa ¡valdrá la pena! Son ideales para aquellos que quieren profundizar y demostrar dominio de varios servicios.
 
 ---
 
